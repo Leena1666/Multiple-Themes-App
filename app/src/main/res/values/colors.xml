@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="purple_200">#FFBB86FC</color>-->
+    <!--    <color name="purple_500">#FF6200EE</color>-->
+    <!--    <color name="purple_700">#FF3700B3</color>-->
+    <!--    <color name="teal_200">#FF03DAC5</color>-->
+    <!--    <color name="teal_700">#FF018786</color>-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- islamic theme -->
+    <color name="colorPrimaryIslamic">#11968b</color>
+    <color name="colorPrimaryDarkIslamic">#0b665e</color>
+    <color name="colorAccentIslamic">#909580</color>
+    <color name="color_text2">#492c1d</color>
+    <color name="checkbox_textColor">#150296</color>
+    <color name="checkbox_tint">#2bd6d0</color>
+    <color name="edittext_textColor">#66b3b0</color>
+    <color name="edittext_colorControlActivated">#FCD581</color>
+    <color name="grey">#c0c2be</color>
+
+    <!-- general theme -->
+    <color name="colorPrimary">#D52941</color>
+    <color name="colorPrimaryDark">#990D35</color>
+    <color name="colorAccent">#FCD581</color>
+</resources>
